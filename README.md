@@ -1,17 +1,17 @@
 # ionicv2Github
 Sample github app for Ionic v2 test development
 
-```$ git clone```
+```git clone```
 
 ```npm install -g cordova ionic@beta typescript typings```
 
-```$ ionic serve```
+```ionic serve```
 
-```$ npm install -g ios-deploy ios-sim version```
+```npm install -g ios-deploy ios-sim version```
 
-```$ ionic build ios```
+```ionic build ios```
 
-```$ ionic run ios```
+```ionic run ios```
 
 
 https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2
